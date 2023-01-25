@@ -1,7 +1,7 @@
 # Szenario "empathy mapping" for NAO Robot [v.1.0]
 *Attention: this project is only available in German!*<br>
 
-###About
+### About
 
 An empathy map is a simple but very effective tool for compiling assessments <br>
 of the perception and emotional world of your own target group.<br>
