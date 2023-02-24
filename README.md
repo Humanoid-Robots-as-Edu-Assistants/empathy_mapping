@@ -1,4 +1,4 @@
-# Szenario "empathy mapping" for NAO Robot [v.1.0]
+# "Empathy mapping" for NAO robot [v.1.0]
 *Attention: this project is only available in German!*<br>
 
 ### About
