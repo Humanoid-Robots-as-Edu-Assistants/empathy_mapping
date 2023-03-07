@@ -24,6 +24,7 @@ In addition to this program on your Nao, you also need empathy maps for the stud
 We currently have no plans to further develop the program.
 
 ### Choregraphe screenshot:
+![empathy_mapping](https://user-images.githubusercontent.com/68842909/223421187-114c7d3a-4404-41c0-a0dc-8c1f3a464b46.PNG)
 
 ---
 
