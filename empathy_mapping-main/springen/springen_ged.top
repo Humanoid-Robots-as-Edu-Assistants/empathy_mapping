@@ -1,0 +1,20 @@
+topic: ~springen()
+language: ged
+
+# Defining extra concepts out of words or group of words
+#concept:(hello) [hello hi hey "good morning" greetings]
+u: (eins) Ok ich springe zur ersten Frage $eins=1 $onStopped=1
+u: (zwei) Ok ich springe zur zweiten Frage $zwei=1 $onStopped=1
+u: (drei) Ok ich springe zur dritten Frage $drei=1 $onStopped=1
+u: (vier) Ok ich springe zur vierten Frage $vier=1 $onStopped=1
+u: (fünf) Ok ich springe zur fünften Frage $fünf=1 $onStopped=1
+u: (sechs) Ok ich springe zur sechsten Frage $sechs=1 $onStopped=1
+u: (sieben) Ok ich springe zur siebten Frage $sieben=1 $onStopped=1
+u: (acht) Ok ich springe zur achten Frage $acht=1 $onStopped=1
+u: (neun) Ok ich springe zur vorletzten Frage $neun=1 $onStopped=1
+u: (zehn) Ok ich springe zur letzten Frage $zehn=1 $onStopped=1
+# Catching inputs and triggering outputs
+#u:(e:onStart) $onStopped=1
+
+# Replying to speech
+#u:(~hello) ~hello

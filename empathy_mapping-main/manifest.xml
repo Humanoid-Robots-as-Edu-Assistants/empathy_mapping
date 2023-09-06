@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package installOnlyAtStartup="false" uuid="empathy_mapping-b0e533" version="1.1.0">
+ <names>
+  <name lang="de_DE">Empathy_Mapping</name>
+  <name lang="en_US">Empathy Mapping</name>
+ </names>
+ <descriptions>
+  <description lang="de_DE">Szenario der Lehrveranstaltung “Learning Design” im Studiengang BWL Digitale Wirtschaft. 
+Der Fokus von diesem Szenario liegt auf einem effizienten Ablauf mit Zeitvorgaben und bei der Durchführung mit mehreren Gruppen gleichzeitig.</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>de_DE</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>de_DE</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <triggerSentences>
+    <sentence lang="de_DE">Hallo Nao</sentence>
+   </triggerSentences>
+   <permissions/>
+  </behaviorContent>
+  <dialogContent typeVersion="1.0" topicName="start_exercise">
+   <topic language="de_DE" path="start_exercise/start_exercise_ged.top"/>
+  </dialogContent>
+  <dialogContent typeVersion="1.0" topicName="Frage5">
+   <topic language="de_DE" path="Frage5/Frage5_ged.top"/>
+  </dialogContent>
+ </contents>
+ <requirements>
+  <robotRequirement model="NAO"/>
+ </requirements>
+</package>
