@@ -1,0 +1,13 @@
+topic: ~persona()
+language: ged
+
+# Defining extra concepts out of words or group of words
+#concept:(hello) [hello hi hey "good morning" greetings]
+u:([ja klar sicher]) Super! $onStopped=1
+
+u:([nein nö nee]) Wenn das stimmt, könnt ihr ja glaich gehen! $onStopped=1
+# Catching inputs and triggering outputs
+#u:(e:onStart) $onStopped=1
+
+# Replying to speech
+#u:(~hello) ~hello

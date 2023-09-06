@@ -18,12 +18,19 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/Aufgabe zum Einstieg/Say</name>
+        <message>
+            <source>Hallo</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hallo</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Danke</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Danke für eure Teilnahme.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Danke für eure Teilnahme.</translation>
+            <translation type="obsolete">Danke für eure Teilnahme.</translation>
         </message>
     </context>
     <context>
@@ -37,10 +44,9 @@
     <context>
         <name>behavior_1/behavior.xar:/F1 Wer bin ich?/Say</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Für diese Aufgabe habt ihr 3 Minuten Zeit.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Für diese Aufgabe habt ihr 3 Minuten Zeit.</translation>
+            <translation type="obsolete">Für diese Aufgabe habt ihr 3 Minuten Zeit.</translation>
         </message>
     </context>
     <context>
@@ -61,10 +67,9 @@
             <translation type="obsolete">Was motiviert mich? Für diese letzte Aufgabe habt ihr 6 Minuten Zeit.</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Was motiviert mich? Für diese letzte Aufgabe habt ihr noch einmal fünf Minuten Zeit.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Was motiviert mich? Für diese letzte Aufgabe habt ihr noch einmal fünf Minuten Zeit.</translation>
+            <translation type="obsolete">Was motiviert mich? Für diese letzte Aufgabe habt ihr noch einmal fünf Minuten Zeit.</translation>
         </message>
     </context>
     <context>
@@ -75,10 +80,9 @@
             <translation type="obsolete">Alles klar?</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Naja, zum Glück kann ich kein Stress empfinden. Ihr seid ja eine ganz schön große Gruppe. Wo waren wir? Ach stimmt, kann es weiter gehen? Drücke bitte kurz einen meiner Fußbumper, wenn wir fortfahren können.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Naja, zum Glück kann ich kein Stress empfinden. Ihr seid ja eine ganz schön große Gruppe. Wo waren wir? Ach stimmt, kann es weiter gehen? Drücke bitte kurz einen meiner Fußbumper, wenn wir fortfahren können.</translation>
+            <translation type="obsolete">Naja, zum Glück kann ich kein Stress empfinden. Ihr seid ja eine ganz schön große Gruppe. Wo waren wir? Ach stimmt, kann es weiter gehen? Drücke bitte kurz einen meiner Fußbumper, wenn wir fortfahren können.</translation>
         </message>
     </context>
     <context>
@@ -107,10 +111,9 @@
             <translation type="obsolete">Was denke ich? Für diese Aufgabe habt ihr 6 Minuten Zeit.</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Was denke ich? Für diese Aufgabe habt ihr vier Minuten Zeit.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Was denke ich? Für diese Aufgabe habt ihr vier Minuten Zeit.</translation>
+            <translation type="obsolete">Was denke ich? Für diese Aufgabe habt ihr vier Minuten Zeit.</translation>
         </message>
     </context>
     <context>
@@ -126,19 +129,17 @@
             <translation type="obsolete">Was wünsche ich mir? Für diese Aufgabe habt ihr 6 Minuten Zeit.</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Was wünsche ich mir? Für diese Aufgabe habt ihr vier Minuten Zeit.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Was wünsche ich mir? Für diese Aufgabe habt ihr vier Minuten Zeit.</translation>
+            <translation type="obsolete">Was wünsche ich mir? Für diese Aufgabe habt ihr vier Minuten Zeit.</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/F4 Was wuensche ich mir/weiter?</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Kommt ihr gut vorran? Oder braucht ihr eine Pause? Wenn es weiter gehen kann, drückt einfach einen meiner Fußbumper.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Kommt ihr gut vorran? Oder braucht ihr eine Pause? Wenn es weiter gehen kann, drückt einfach einen meiner Fußbumper.</translation>
+            <translation type="obsolete">Kommt ihr gut vorran? Oder braucht ihr eine Pause? Wenn es weiter gehen kann, drückt einfach einen meiner Fußbumper.</translation>
         </message>
     </context>
     <context>
@@ -159,10 +160,9 @@
             <translation type="obsolete">Was weiss ich? Für diese Aufgabe habt ihr wieder 5 Minuten Zeit.</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Was weiss ich? Für diese Aufgabe habt ihr wieder vier Minuten Zeit.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Was weiss ich? Für diese Aufgabe habt ihr wieder vier Minuten Zeit.</translation>
+            <translation type="obsolete">Was weiss ich? Für diese Aufgabe habt ihr wieder vier Minuten Zeit.</translation>
         </message>
     </context>
     <context>
@@ -183,28 +183,25 @@
             <translation type="obsolete">Was kann ich? Für diese Aufgabe habt ihr 5 Minuten Zeit.</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Was kann ich? Für diese Aufgabe habt ihr vier Minuten Zeit.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Was kann ich? Für diese Aufgabe habt ihr vier Minuten Zeit.</translation>
+            <translation type="obsolete">Was kann ich? Für diese Aufgabe habt ihr vier Minuten Zeit.</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/F6 Was kann ich/say</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Sehr gut.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Sehr gut.</translation>
+            <translation type="obsolete">Sehr gut.</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/F6 Was kann ich/weiter?</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Oki doki. Könnt ihr euch eure Persona immer besser vorstellen?</source>
             <comment>Text</comment>
-            <translation type="unfinished">Oki doki. Könnt ihr euch eure Persona immer besser vorstellen?</translation>
+            <translation type="obsolete">Oki doki. Könnt ihr euch eure Persona immer besser vorstellen?</translation>
         </message>
     </context>
     <context>
@@ -220,10 +217,9 @@
             <translation type="obsolete">Was mache ich? Für diese Aufgabe habt ihr 6 Minuten Zeit.</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Was mache ich? Für diese Aufgabe habt ihr vier Minuten Zeit.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Was mache ich? Für diese Aufgabe habt ihr vier Minuten Zeit.</translation>
+            <translation type="obsolete">Was mache ich? Für diese Aufgabe habt ihr vier Minuten Zeit.</translation>
         </message>
     </context>
     <context>
@@ -243,11 +239,10 @@
 </translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Wie verhalte ich mich? Für diese Aufgabe habt ihr vier Minuten Zeit.
 </source>
             <comment>Text</comment>
-            <translation type="unfinished">Wie verhalte ich mich? Für diese Aufgabe habt ihr vier Minuten Zeit.
+            <translation type="obsolete">Wie verhalte ich mich? Für diese Aufgabe habt ihr vier Minuten Zeit.
 </translation>
         </message>
     </context>
@@ -269,10 +264,9 @@
             <translation type="obsolete">Also: Was demotiviert mich? Für diese Aufgabe habt ihr 6 Minuten Zeit.</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Also: Was demotiviert mich? Für diese Aufgabe habt ihr fünf Minuten Zeit.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Also: Was demotiviert mich? Für diese Aufgabe habt ihr fünf Minuten Zeit.</translation>
+            <translation type="obsolete">Also: Was demotiviert mich? Für diese Aufgabe habt ihr fünf Minuten Zeit.</translation>
         </message>
     </context>
     <context>
@@ -299,10 +293,9 @@
     <context>
         <name>behavior_1/behavior.xar:/Uff</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Uff, ganz schön anstrengend so eine ganze Übung.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Uff, ganz schön anstrengend so eine ganze Übung.</translation>
+            <translation type="obsolete">Uff, ganz schön anstrengend so eine ganze Übung.</translation>
         </message>
     </context>
     <context>
@@ -321,10 +314,9 @@
             <translation type="vanished">Hallo</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Danke für die Streicheleinheiten!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Danke für die Streicheleinheiten!</translation>
+            <translation type="obsolete">Danke für die Streicheleinheiten!</translation>
         </message>
     </context>
     <context>
@@ -335,19 +327,17 @@
             <translation type="vanished">Hallo</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>wenn ein Schritt zu Ende ist.</source>
             <comment>Text</comment>
-            <translation type="unfinished">wenn ein Schritt zu Ende ist.</translation>
+            <translation type="obsolete">wenn ein Schritt zu Ende ist.</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/tschuess</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Tschüss und bis zum nächsten Mal!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Tschüss und bis zum nächsten Mal!</translation>
+            <translation type="obsolete">Tschüss und bis zum nächsten Mal!</translation>
         </message>
     </context>
 </TS>

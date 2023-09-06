@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="empathy_mapping-b0e533" version="1.1.0" installOnlyAtStartup="false">
+<package installOnlyAtStartup="false" uuid="empathy_mapping-b0e533" version="1.1.0">
  <names>
   <name lang="de_DE">Empathy_Mapping</name>
   <name lang="en_US">Empathy Mapping</name>
@@ -21,13 +21,12 @@ Der Fokus von diesem Szenario liegt auf einem effizienten Ablauf mit Zeitvorgabe
    <triggerSentences>
     <sentence lang="de_DE">Hallo Nao</sentence>
    </triggerSentences>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
-  <dialogContent topicName="start_exercise" typeVersion="1.0">
+  <dialogContent typeVersion="1.0" topicName="start_exercise">
    <topic language="de_DE" path="start_exercise/start_exercise_ged.top"/>
   </dialogContent>
-  <dialogContent topicName="Frage5" typeVersion="1.0">
+  <dialogContent typeVersion="1.0" topicName="Frage5">
    <topic language="de_DE" path="Frage5/Frage5_ged.top"/>
   </dialogContent>
  </contents>
